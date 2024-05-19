@@ -1,3 +1,5 @@
+![image](https://github.com/hpivanov/M4/assets/16254978/af9dcbad-7e2e-4b8b-8775-d236eae3ec2c)
+
 ### The M4 Principles: Key Approaches for Efficiency in the IT Sector
 
 In the dynamic and rapidly evolving IT sector, finding suitable methods to tackle problems and optimize processes is crucial. One such approach is the M4 methodology, which includes four core principles: Make it work, Make it better, Make it faster, and Make it simple. These principles provide a systematic and effective way of working and improving projects, especially in software engineering.
