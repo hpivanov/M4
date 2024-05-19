@@ -1,4 +1,5 @@
-![image](https://github.com/hpivanov/M4/assets/16254978/af9dcbad-7e2e-4b8b-8775-d236eae3ec2c)
+![image](https://github.com/hpivanov/M4/assets/16254978/8f6b2917-3175-45f5-b2b0-6e5dcb2242f3)
+
 
 ### The M4 Principles: Key Approaches for Efficiency in the IT Sector
 
